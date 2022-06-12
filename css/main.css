@@ -1,0 +1,235 @@
+.img-box{
+  align-items: center;
+
+  display: flex;
+  width: 103px;
+  height: 26px;
+}
+
+.box-img{
+  display: flex;
+  width: 103px;
+  height: 26px;
+}
+
+
+.header-ul
+{
+
+  left: 467px;
+  top: 35px;
+  list-style-type: none;
+  display: flex;
+  width: 422px;
+  height: 13px;
+}
+
+.header-list{
+  color: grey;
+  width: 100px;
+  height: 13px;
+}
+
+.header-link{
+  text-decoration: none;
+}
+
+
+.header-ul-2{
+  justify-content: space-between;
+  width: 99px;
+  height: 21px;
+  align-items: center;
+  display: flex;
+}
+
+.header-list-2{
+  list-style-type:none;
+
+}
+
+/* Section second */
+
+.header-top{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.top-div{
+  display: flex;
+  align-items: center;
+}
+
+
+.line{
+  width: 56px;
+  height: 2px;
+  background:#8B8371;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+
+.top-p{
+  color: #444340;
+}
+
+
+.buttom{
+  display: flex;
+  background: #444240;
+  width: 205px;
+  height: 64px;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttom-href{
+  text-decoration: none;
+  color: #fff;
+}
+
+
+/* Section third */
+
+.left-text{
+  text-align: center;
+}
+
+
+.left-ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+
+.more{
+  display: flex;
+  align-items: center;
+}
+
+
+.header-href{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration: none;
+  color: black;
+
+}
+
+
+/* Four section */
+
+.right-div{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+
+.buttom-brown{
+  display: flex;
+  width: 205px;
+  height: 64px;
+  background-color: #D4B098;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.buttom-href{
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.right-imgs{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+
+.imgs{
+  display: flex;
+}
+
+
+
+.two-imgs{
+  display: flex;
+  flex-direction: column;
+}
+
+.clas-img-foot{
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* Beshinchi qism */
+
+.header-bottom{
+    background-color: #444240;
+}
+
+.bottom-div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom-hrefs{
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-href{
+    text-decoration: none;
+    color: #fff;
+}
+
+.bottom-ul{
+    display: flex;
+}
+
+.ul-bottom{
+    list-style: none;
+}
+
+
+
+
+
+
+
+/* .pic{
+  display: flex;
+  width: 300px;
+  height: 150px;
+
+
+} */
+
+/*
+.big-div{
+  box-shadow: grey;
+  width: 700px;
+  height: 250px;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.div-box{
+  box-shadow: grey;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  background-color: rgb(0, 0, 0);
+  border: solid 1px rgb(144, 226, 19); */
+/* } */
